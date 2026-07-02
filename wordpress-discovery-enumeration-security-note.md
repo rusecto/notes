@@ -2,7 +2,6 @@
 WordPress Discovery and Enumeration
 CATEGORY: Vulnerability Analysis
 PUBLISH DATE: 2026-07-02
-READ TIME: 7 min read
 =========================================
 
 SYNOPSIS:
@@ -10,10 +9,6 @@ A comprehensive review of WordPress footprinting, active enumeration, authentica
 
 INTEGRATIONS & STACKS:
 WordPress, WPScan, LFI, RCE, Security Assessment
-
-=========================================
-FULL DOCUMENTATION CONTENT:
-=========================================
 
 # Wordpress Discovery and Enumeration
 
