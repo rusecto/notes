@@ -2,7 +2,6 @@
 Active Directory Reconnaissance & Hardening
 CATEGORY: Active Directory
 PUBLISH DATE: 2026-07-02
-READ TIME: 8 min read
 =========================================
 
 SYNOPSIS:
@@ -10,10 +9,6 @@ A detailed manual on unauthenticated AD directory harvesting, response spoofing 
 
 INTEGRATIONS & STACKS:
 Active Directory, Group Policy, Responder, LLMNR, NTLM Relay, Hardening
-
-=========================================
-FULL DOCUMENTATION CONTENT:
-=========================================
 
 # Active Directory Reconnaissance & Hardening
 
